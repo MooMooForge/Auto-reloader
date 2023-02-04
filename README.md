@@ -2,6 +2,8 @@
 
 Automatically reload the page on `disconnect` and handle errors such as `"Server is full"`
 
+**[CLICK TO INSTALL THE SCRIPT](https://greasyfork.org/en/scripts/446827-moomoo-io-auto-reloader)**
+
 <img src="https://i.imgur.com/1Hnii50.png" height="200em"/>
 
 ### Features
